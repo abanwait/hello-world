@@ -1,2 +1,4 @@
 # hello-world
-hello world github tutorial 
+hello world github tutorial
+
+Making changes to commit.
